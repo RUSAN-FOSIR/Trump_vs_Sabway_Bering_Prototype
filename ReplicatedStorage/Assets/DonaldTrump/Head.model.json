@@ -1,0 +1,19 @@
+{
+  "className": "Part",
+  "properties": {
+    "Size": [1.2, 1.2, 1.2],
+    "BrickColor": "Light orange",
+    "Material": "SmoothPlastic",
+    "Anchored": false,
+    "CanCollide": true,
+    "CFrame": [0, 4.2, 0]
+  },
+  "children": [
+    {
+      "className": "SpecialMesh",
+      "properties": {
+        "MeshType": "Head"
+      }
+    }
+  ]
+}

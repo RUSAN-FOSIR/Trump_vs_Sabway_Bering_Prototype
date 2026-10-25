@@ -1,0 +1,11 @@
+{
+  "className": "Part",
+  "properties": {
+    "Size": [1.4, 0.4, 1.4],
+    "BrickColor": "Bright yellow",
+    "Material": "SmoothPlastic",
+    "Anchored": false,
+    "CanCollide": false,
+    "CFrame": [0, 4.8, 0]
+  }
+}
